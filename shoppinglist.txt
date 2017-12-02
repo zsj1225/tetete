@@ -12,3 +12,5 @@ test100
 test11
 test12
 test13
+
+U盘
